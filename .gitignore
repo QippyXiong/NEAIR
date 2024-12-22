@@ -1,0 +1,19 @@
+.*
+!.gitignore
+# .vscode
+venv
+__pycache__
+**/*.pyc
+*.pkl
+*.npy
+*.json
+results
+opt
+**/*.bash
+**/*.sh
+!scripts/*.sh
+**/*.log
+**/*.yaml
+**/*.db
+*.png
+*.svg
